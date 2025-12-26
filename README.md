@@ -17,3 +17,7 @@ This is my personal portfolio website showcasing my skills, projects, and resume
 ## Live Website
 👉 [Click here to view my portfolio](https://senitha1125.github.io/Portfolio/)
 
+
+## GitHub
+https://github.com/senitha1125
+
