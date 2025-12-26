@@ -14,4 +14,4 @@ This is my personal portfolio website built using HTML and CSS.
 - JavaScript (basic)
 
 ## Live Website
-👉 https://yourusername.github.io/portfolio/
+(https://senitha1125.github.io/Portfolio/)
