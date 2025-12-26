@@ -1,4 +1,4 @@
-<img width="756" height="460" alt="image" src="https://github.com/user-attachments/assets/283ad8b5-1f42-4a6e-9908-c5f9fe094f91" /># Personal Portfolio
+<img width="756" height="460" alt="image" src="portfolio.PNG" /># Personal Portfolio
 
 This is my personal portfolio website showcasing my skills, projects, and resume, built using HTML, CSS, and JavaScript.
 
