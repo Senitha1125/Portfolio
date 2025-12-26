@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <meta charset="UTF-8">
-    <title>Senitha | Portfolio</title>
+    <title> Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <nav>
-    <h2>Senitha</h2>
+    <button onclick="toggleDark()" class="dark-btn">🌙</button>
+
+    <h2>Senitha V P</h2>
     <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="about.html">About</a></li>
@@ -18,10 +21,19 @@
 </nav>
 
 <section class="hero">
-    <h1>Hi, I’m Senitha </h1>
+    <img src="Sen.jpg" alt="My Photo" class="profile-pic">
+    <h1>Hi, I’m Senitha!</h1>
     <p>CSE Undergraduate | Beginner Developer</p>
     <p>I love learning programming and building simple web projects.</p>
+    <a href="resume.pdf" class="resume-btn" download>Download Resume</a>
+
 </section>
+    <script>
+function toggleDark() {
+    document.body.classList.toggle("dark");
+}
+</script>
+
 
 </body>
 </html>
