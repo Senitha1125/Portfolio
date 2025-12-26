@@ -1,4 +1,4 @@
-<img width="756" height="460" alt="image" src="portfolio.PNG" /># Personal Portfolio
+<img width="756" height="460" alt="image" src="portfolionew.PNG" /># Personal Portfolio
 
 This is my personal portfolio website showcasing my skills, projects, and resume, built using HTML, CSS, and JavaScript.
 
