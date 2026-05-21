@@ -2,13 +2,6 @@
 
 This is my personal portfolio website showcasing my skills, projects, and resume, built using HTML, CSS, and JavaScript.
 
-
-## Features
-- About Me
-- Projects showcase
-- Resume download
-- Dark mode
-
 ## Tech Stack
 - HTML
 - CSS
